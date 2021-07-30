@@ -1,0 +1,3 @@
+class Usersmanagement < ApplicationRecord
+    
+end
